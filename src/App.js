@@ -1,10 +1,9 @@
 import React from 'react'
+import CustomTheme from './Components/CustomTheme'
 
 function App() {
   return (
-    <div>
-      App
-    </div>
+    <CustomTheme></CustomTheme>
   );
 }
 
